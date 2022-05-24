@@ -1,4 +1,7 @@
-
+- name: Home
+  link: /
+  new_window: true
+  highlight: false
 - name: Features
   link: /blog/
   new_window: false
@@ -11,11 +14,7 @@
   link: /contact/
   new_window: false
   highlight: false
-- name: Login
-  link: /
-  new_window: true
-  highlight: false
-- name: Sign Up
-  link: /
+- name: App
+  link: https://foreweatherapp.herokuapp.com/
   new_window: true
   highlight: true
