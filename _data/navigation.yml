@@ -1,8 +1,5 @@
-- name: Pricing
-  link: /pricing/
-  new_window: false
-  highlight: false
-- name: Blog
+
+- name: Features
   link: /blog/
   new_window: false
   highlight: false
