@@ -9,9 +9,8 @@ html, body {
 
 body {
 	font-family: "San Francisco", "Helvetica Neue", "Helvetica", "Arial";
-	background-image: url('bg.jpg');
-	background-attachment: fixed;
- 	background-size: 100% 100%;
+	background: #211f45;
+	
 }
 
 a {
@@ -25,6 +24,9 @@ a:hover {
 
 img {
 	width: 100%;
+}
+video {
+	width:100%
 }
 
 h1 strong, h2 strong {
