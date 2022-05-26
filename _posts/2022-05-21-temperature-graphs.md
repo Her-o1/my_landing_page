@@ -1,5 +1,5 @@
 ---
-date: 2022-23-05
+date: 2022-05-21
 title: Interactive graphs
 categories:
   - plotly
