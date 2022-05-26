@@ -1,12 +1,12 @@
 ---
-date: 2020-07-20
-title: The process for direct sales
+date: 2022-05-23
+title: Use a dropdown to select locations
 categories:
-  - sales
-author_staff_member: anna
+  - main feature
+author_staff_member: Joy
 ---
 
-Direct selling is the marketing and selling of products directly to consumers away from a fixed retail location. Peddling is the oldest form of direct selling. Modern direct selling includes sales made through the party plan, one-on-one demonstrations, and other personal contact arrangements as well as internet sales.
+The goal of the app is to have the user select locations from a dropdown menu. This is the main input feature. All graphs, weathermaps and current weather will be displayed soon after. Want to know how it works? Read more
 
 ![Checkmate](https://source.unsplash.com/random/1500x1145)
 
