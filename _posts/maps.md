@@ -1,11 +1,11 @@
 ---
-date: 2020-08-12
-title: The history of marketing
+date: 2022-22-05
+title: Maps
 categories:
-  - marketing
-author_staff_member: robin
+  - dash leaflet
+author_staff_member: Joy
 ---
-The beginnings of digital marketing technology can be traced back to the 1980's, when computers became sophisticated enough to store huge volumes of customer information. For a brief moment, no one knew what would happen in digital marketing, but by the 90's it all became clear.
+The maps display the specific location selected from the graph as well as a weather icon of the current weather and a popup of what the temperature looks like at the time of selection
 
 ![Man](https://source.unsplash.com/random/1500x1146)
 
