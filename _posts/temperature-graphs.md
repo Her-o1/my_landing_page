@@ -1,11 +1,11 @@
 ---
-date: 2020-08-06
-title: Definition of sales
+date: 2022-23-05
+title: Interactive graphs
 categories:
-  - sales
-author_staff_member: james
+  - plotly
+author_staff_member: Joy
 ---
-A person or organization expressing an interest in acquiring the offered item of value is referred to as a potential buyer, prospective customer or prospect. Buying and selling are understood to be two sides of the same "coin" or transaction. Both seller and buyer engage in a process of negotiation to consummate the exchange of values. The exchange, or selling, process has implied rules and identifiable stages.
+Temperature graphs showcase the selected area's temperature forecast in terms of minimum and maximum temperatures per day.
 
 ![Cat](https://source.unsplash.com/random/1500x1146)
 
