@@ -8,7 +8,7 @@ author_staff_member: Joy
 
 The goal of the app is to have the user select locations from a dropdown menu. This is the main input feature. All graphs, weathermaps and current weather will be displayed soon after. Want to know how it works?
 
-![Checkmate](https://cdn.dribbble.com/users/581860/screenshots/2628473/dropdown-gif.gif)
+![Checkmate](https://cdn.dribbble.com/users/6458/screenshots/765642/dropdown-animated.gif)
 
 ## The power of the dropdown
 
