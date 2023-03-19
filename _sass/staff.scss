@@ -24,12 +24,23 @@
 		height: 200px;
 			img {
 				border-radius: 200px;
+				background: rgba(0,0,0,1);
+    				filter: grayscale(10);
 			}
 		}
 
 	.name {
 		font-size: 1.3em;
 		margin-top: 20px;
+	}
+	.section-1 ul{
+	    list-style-type: none;
+	    display: block;
+	    margin: 0 auto;
+	    padding: 0;
+	}
+	.section-1 li {
+	    display: inline-block;
 	}
 
 	.position {
